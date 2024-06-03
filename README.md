@@ -1,1 +1,1 @@
-# MazePython
+# Maze
